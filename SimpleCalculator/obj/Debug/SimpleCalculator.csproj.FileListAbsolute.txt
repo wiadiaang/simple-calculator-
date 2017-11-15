@@ -1,0 +1,12 @@
+c:\users\singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\CODE SAMPLE\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\CODE SAMPLE\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\CODE SAMPLE\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
