@@ -1,2 +1,2 @@
-# simple-calculator-
+# simple-calculator
 Kalkulator sederhana dengan C# 
